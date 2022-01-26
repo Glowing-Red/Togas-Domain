@@ -1,1 +1,5 @@
-'djW5ZahTVV'
+DiscordInvite = {
+    'djW5ZahTVV',
+}
+
+return DiscordInvite
