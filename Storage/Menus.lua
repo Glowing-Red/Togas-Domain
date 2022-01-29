@@ -1,7 +1,7 @@
 Menus = {
 	
 	BGTD = {
-		Name = "Bubble Gum Tower Defense",
+		Name = "bubble Trouble",
 		SearchName = "Bubble Gum Tower Defense",
 		Icon = "Custom",
 		CustomIcon = "6948037100",
