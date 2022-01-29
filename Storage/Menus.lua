@@ -1,6 +1,6 @@
 Menus = {
 	
-	BGTD = {
+	BubbleTrouble = {
 		Name = "Bubble Trouble",
 		SearchName = "Bubble Gum Tower Defense",
 		Icon = "Custom",
