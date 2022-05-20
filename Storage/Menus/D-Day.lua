@@ -1,7 +1,12 @@
 repeat wait() until game:IsLoaded()
 
 -- Fail checks
-if getgenv().ddestroyer_executed == true then 
+if game.PlaceId ~= 901793731 then
+    game.Players.LocalPlayer:Kick("D-Day Destroyer only works on D-Day .")
+    return
+end
+
+if getgenv().ddestroyer_executed == true then
     game.Players.LocalPlayer:Kick("DDestroyer was already executed once.")
     return
 else
