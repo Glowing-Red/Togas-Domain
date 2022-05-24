@@ -1,3 +1,4 @@
+--Working as of: 2022-05-24
 local Categories = {'Characters', 'Guns', 'Gadgets'}
 
 for _, Category in pairs(Categories) do
